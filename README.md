@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, SHANMUKH-R
 #### AIML Enthusiast
 ![AIML Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
