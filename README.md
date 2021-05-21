@@ -16,8 +16,6 @@ Skills: Python / C / C++ / Java / HTML / CSS / Blender-3D
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SHANMUKH-R )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shanmukh-r-17295a1a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shanmukh_rachakunta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shanmuk58125337)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHANMUKH-R )](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHANMUKH-R )  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHANMUKH-R )](https://github.com/anuraghazra/github-readme-stats)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHANMUKH-R )  
 
 ![Profile views](https://gpvc.arturio.dev/SHANMUKH-R )  
