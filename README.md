@@ -1,6 +1,6 @@
 ### Hi there 👋, SHANMUKH-R
 #### AIML Enthusiast
-![AIML Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![AIML Enthusiast](https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/Shanmukh-R.png)
 
 
 Skills: Python / C / C++ / Java / HTML / CSS / Blender-3D 
