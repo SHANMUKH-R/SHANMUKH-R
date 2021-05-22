@@ -20,7 +20,7 @@ Skills: Python / C / C++ / Java / HTML / CSS / Blender-3D
 
 ##Exmaples of work
 
-<img src="https://media.giphy.com/media/Eas3yuxNfrVDKZCvmx/giphy.gif" width='256'/>
+<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/Redloop_gif.gif" width='256'/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SHANMUKH-R )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shanmukh-r-17295a1a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shanmukh_rachakunta/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shanmuk58125337)  
 
