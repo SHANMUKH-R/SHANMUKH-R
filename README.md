@@ -3,9 +3,9 @@
 ## AIML Enthusiast
 
 
-- 🔭 I’m currently working on Data visualization 
-- 🌱 I’m currently learning Machine learning and Deep learning 
-- 👯 I’m looking to collaborate on medium and stack overflow 
+- 🔭 Currently working on Data visualization 
+- 🌱 Training with Machine learning and Deep learning 
+- 👯 Looking forward to collaborate on medium and stack overflow 
 - 🤔 I’m looking for help with Puppet and Docker 
 - 💬 Ask me about Data analysis and Blender-3D graphics 
 - 📫 How to reach me: Gmail-shanmukhtaman@gmail.com 
