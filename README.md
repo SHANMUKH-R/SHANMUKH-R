@@ -1,6 +1,6 @@
-### Hi there 👋, SHANMUKH-R
+## Hi there 👋, SHANMUKH-R
 ![AIML Enthusiast](https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/Shanmukh-R.png)
-#### AIML Enthusiast
+## AIML Enthusiast
 
 
 - 🔭 I’m currently working on Data visualization 
