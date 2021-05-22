@@ -20,16 +20,10 @@ Skills: Python / C / C++ / Java / HTML / CSS / Blender-3D
 
 ##Exmaples of work
 
-<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/Redloop_gif.gif" width='256'/>
-<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/deer_patronus.gif" width='256'/>
-<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/HackSRM_3rdEdition.gif" width='256'/>
-<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/infinite_loop.gif" width='256'/>
+<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/Redloop_gif.gif" width='256'/> <img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/deer_patronus.gif" width='256'/> <img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/HackSRM_3rdEdition.gif" width='256'/> <img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/infinite_loop.gif" width='256'/>
 
 
-<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/2020-10-08.png" width='256'/>
-<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/2020-09-29%20(5).png" width='256'/>
-<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/2020-04-18%20(4).png" width='256'/>
-<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/2020-02-21%20(4).png" width='256'/>
+<img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/2020-10-08.png" width='256'/> <img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/2020-09-29%20(5).png" width='256'/> <img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/2020-04-18%20(4).png" width='256'/> <img src="https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/2020-02-21%20(4).png" width='256'/>
 
 
 
