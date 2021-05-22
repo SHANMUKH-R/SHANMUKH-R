@@ -2,7 +2,6 @@
 ![AIML Enthusiast](https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/Shanmukh-R.png)
 #### AIML Enthusiast
 
-Skills: Python / C / C++ / Java / HTML / CSS / Blender-3D 
 
 - 🔭 I’m currently working on Data visualization 
 - 🌱 I’m currently learning Machine learning and Deep learning 
