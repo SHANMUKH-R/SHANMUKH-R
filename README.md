@@ -15,7 +15,7 @@
 
 * 🐍 Python
 * 💻 HTML, CSS, C, C++
-* 🧊 Blemder-3D
+* 🧊 Blender-3D
 * Data Analysis, Data Visualization
 * AIML
 * Completed AIML internship with HexnBit
