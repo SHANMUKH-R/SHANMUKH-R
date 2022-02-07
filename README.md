@@ -1,4 +1,6 @@
 ## Hi there 👋, SHANMUKH-R
+# University of California - Berkeley 
+# SRM University A.P
 ![AIML Enthusiast](https://github.com/SHANMUKH-R/SHANMUKH-R/blob/main/Shanmukh-R.png)
 ## AIML Enthusiast
 
