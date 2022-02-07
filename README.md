@@ -3,13 +3,13 @@
 ## AIML Enthusiast
 
 
-- 🔭 Currently working on Data visualization 
+- 🔭 Currently working on Applied data science and venture applications, opportunity tech - Startup studies. 
 - 🌱 Training with Machine learning and Deep learning 
 - 👯 Looking forward to collaborate on medium and stack overflow 
 - 🤔 I’m looking for help with Puppet and Docker 
 - 💬 Ask me about Data analysis and Blender-3D graphics 
 - 📫 How to reach me: Gmail-shanmukhtaman@gmail.com 
-- ⚡ Fun fact: Im a workaholic and fast learner. Always open to share ideas. 
+- ⚡ Fun fact: Im a workaholic and fast learner. Always open to sharing ideas. 
 
 ## Skills and Experience 
 
