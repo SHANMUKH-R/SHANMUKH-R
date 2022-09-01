@@ -5,21 +5,21 @@
 ## AIML Enthusiast
 
 
-- 🔭 Currently working on Applied data science and venture applications, opportunity tech - Startup studies. 
+- 🔭 Currently working on Applied data science and venture applications, Deep Learning applications. 
 - 🌱 Training with Machine learning and Deep learning 
 - 👯 Looking forward to collaborate on medium and stack overflow 
-- 🤔 I’m looking for help with Puppet and Docker 
-- 💬 Ask me about Data analysis and Blender-3D graphics 
+- 💬 Ask me about Machine Learning, Data Science and Blender-3D graphics 
 - 📫 How to reach me: Gmail-shanmukhtaman@gmail.com 
 - ⚡ Fun fact: Im a workaholic and fast learner. Always open to sharing ideas. 
+- 🤔 He/Him
 
 ## Skills and Experience 
 
 * 🐍 Python
 * 💻 HTML, CSS, C, C++
 * 🧊 Blender-3D
+* TensorFlow, ML/DL
 * Data Analysis, Data Visualization
-* AIML
 * Completed AIML internship with HexnBit
 
 ## Some of my works
